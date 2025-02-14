@@ -1,1 +1,1 @@
-# Ticket-Booking-System-using-RMI
+# DS-IRCTC
